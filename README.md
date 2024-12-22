@@ -7,13 +7,10 @@ This project is a simple Netflix Clone built using HTML, CSS, JavaScript, and PH
 - Basic movie/TV show details pages
 
 ### Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL (handled via XAMPP)
-Server: XAMPP (Apache and MySQL)
-
-## Netflix Clone - README
-
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL (handled via XAMPP)
+- Server: XAMPP (Apache and MySQL)
 
 ### Setup Instructions
 
