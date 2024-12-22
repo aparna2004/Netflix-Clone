@@ -30,7 +30,7 @@ This project is a simple Netflix Clone built using HTML, CSS, JavaScript, and PH
 4. **Set Up the Database**:  
    - Open your browser and go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
    - Create a new database named `netflix_clone`.
-   - Import the `netflix.sql` file located in the `/database` folder to set up the required tables.
+   - Import the `.sql` files located in the `/sql` folder to set up the required tables.
 
 5. **Configure Database Connection**:  
    - Open the `includes/config.php` file and update the database credentials if necessary.
